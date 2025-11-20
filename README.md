@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm a developer based in **Denmark** 🇩🇰
+I'm a developer based in **Denmark**
 
 Passionate about building software and solving problems. Here is a quick overview of my tech stack.
 
