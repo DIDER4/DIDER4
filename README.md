@@ -2,7 +2,7 @@
 
 I'm a developer based in **Denmark**
 
-Here is a quick overview of my tech stack.
+Techstack:
 
 ---
 
